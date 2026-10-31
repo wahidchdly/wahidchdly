@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Software Engineer with 5+ years of experience in web and application development, passionate about building scalable, maintainable, and user-focused software solutions.<br>* 💻 Experienced in frontend and backend application development.<br>* ⚛️ Working with modern web technologies, including React, Vue.js, TypeScript, and Node.js.<br>* 🏗️ Interested in software architecture, clean code, API design, and scalable backend systems.<br>* 🗄️ Exploring database design, PostgreSQL, Docker, and microservices architecture.<br>* 🚀 Passionate about continuous learning, problem-solving, and building software that makes a real impact.<br>* 🌍 Interested in collaborating with global engineering teams and contributing to meaningful projects.
+I’m a Software Engineer with 7+ years of experience in web and application development, passionate about building scalable, maintainable, and user-focused software solutions.<br>* 💻 Experienced in frontend and backend application development.<br>* ⚛️ Working with modern web technologies, including React, Vue.js, TypeScript, and Node.js.<br>* 🏗️ Interested in software architecture, clean code, API design, and scalable backend systems.<br>* 🗄️ Exploring database design, PostgreSQL, Docker, and microservices architecture.<br>* 🚀 Passionate about continuous learning, problem-solving, and building software that makes a real impact.<br>* 🌍 Interested in collaborating with global engineering teams and contributing to meaningful projects.
 
 
 ## 🌐 Socials:
@@ -11,11 +11,5 @@ I’m a Software Engineer with 5+ years of experience in web and application dev
 ![](https://github-readme-stats.shion.dev/api?username=wahidchdly&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=wahidchdly&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=wahidchdly&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://komarev.com/ghpvc/?username=wahidchdly&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
