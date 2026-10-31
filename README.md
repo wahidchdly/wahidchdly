@@ -1,8 +1,16 @@
-# 💫 About Me:
-Hi, I'm Wahid Chandra Daulay 👋🏻
+# 💫 About Me
 
-I’m a Software Engineer with 7+ years of experience in web and application development, passionate about building scalable, maintainable, and user-focused software solutions.<br>* 💻 Experienced in frontend and backend application development.<br>* ⚛️ Working with modern web technologies, including React, Next, Vue, Nuxt, Javascript, TypeScript, Node.js, Express.js and Nest.js.<br>* 🏗️ Interested in software architecture, clean code, API design, and scalable backend systems.<br>* 🗄️ Exploring database design, PostgreSQL, MongoDB, Prisma, etc.<br>* 🚀 Passionate about continuous learning, problem-solving, and building software that makes a real impact.<br>* 🌍 Interested in collaborating with global engineering teams and contributing to meaningful projects.
+Hi, I’m Wahid Chandra Daulay 👋🏻
 
+I’m a Software Engineer specializing in web and application development, with experience building scalable, maintainable, and user-focused software solutions.
+
+* 💻 Experienced in frontend and backend development.
+* 🌐 Proficient in JavaScript and TypeScript for modern web development.
+* ⚛️ Working with React.js, Next.js, Vue.js, Nuxt.js.
+* 🔧 Building backend applications and APIs with Node.js, Express.js, and NestJS.
+* 🏗️ Interested in software architecture, clean code, API design, and scalable backend systems.
+* 🗄️ Working with PostgreSQL, MongoDB, Prisma, and relational database design.
+* 🌍 Open to collaborating with international engineering teams on meaningful projects.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wahid.daulay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wahid-chandra-daulay) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wahidchdly@gmail.com)
